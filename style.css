@@ -5,12 +5,14 @@
 }
 
 * {
-    background-color: blanchedalmond;
+   
+}
+body {
     background-image:url("image/background.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
+    background-color: blanchedalmond;
 }
-
 #content {
     margin-left: 2rem;
     margin-right: 2rem;
